@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:database;DB_CLOSE_DELAY=-1
+    username: sa
+    password: sa
+    driver-class-name: org.h2.Driver
+  jpa:
+    properties:
+      hibernate:
+        archive.autodetection: class
+        jdbc.lob.non_contextual_creation: true
+        dialect: org.hibernate.dialect.H2Dialect
+
+  application:
+    currency_key: "?access_key=465f11e7a1ba079b9a9d0f94dd07f013"
+    api_layer_url: "http://apilayer.net/api/"
+    currency_func: "convert"
+server:
+  port: 8081

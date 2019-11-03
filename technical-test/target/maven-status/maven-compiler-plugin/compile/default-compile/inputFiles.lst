@@ -1,0 +1,17 @@
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/TechnicalTestApplication.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/config/CloudmersiveConfig.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/CurrencyResponse.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/client/Client.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/VatCode.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/dao/Dao.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/utility/Utility.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/CountryCode.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/controller/Controller.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/entity/Currency.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/config/SwaggerConfig.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/config/HibernateConfig.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/EnumCurrency.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/service/Service.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/CurrencyRequest.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/utility/Reactive.java
+/Users/ufukchavushoglu/Desktop/technical-test/src/main/java/com/conichi/technicaltest/model/LocDateTime.java
